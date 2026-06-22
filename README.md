@@ -9,5 +9,5 @@ If you have any problems using this library, have specific questions, or anythin
 
 - **Rubika:** [@codetansarianpv](https://rubika.ir/codetansarianpv)  
 - **GitHub Issues:** [Report here](https://github.com/CN-codetansarian/rubkey_py_support/issues)
-
-> 🔹 **Rubkey Python Library** — Rubika Bot API Library
+  
+> 🔹 **Rubkey Library** — Rubika Bot API Library
