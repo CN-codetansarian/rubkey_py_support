@@ -15,3 +15,5 @@ If you have any problems using this library, have specific questions, or anythin
 [![Rubika](https://img.shields.io/badge/Rubika-Library%20Rubkey-blue?style=for-the-badge)](https://rubika.ir/Library_rubkey)
 
 [![Documentation](https://img.shields.io/badge/Documentation-Rubkey-blue?style=flat&logo=github&labelColor=333333&color=007ec6)](https://CN-codetansarian.github.io/Rubkey_documentation/)
+
+[![Python](https://img.shields.io/badge/Python-Library%20Rubkey-3776AB?style=flat&logo=python&logoColor=white)](https://pypi.org/project/rubkey/)
